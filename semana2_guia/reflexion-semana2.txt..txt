@@ -1,0 +1,1 @@
+la terminal es una herramienta fundamental para cualquier desarrollador porque permite gestionar archivos y proyectos de forma rapida y profesional. Atravez de ella podemos usar git para mantener nuestras tareas organizadas en github y colaborar con otros programdores de manera eficiente.

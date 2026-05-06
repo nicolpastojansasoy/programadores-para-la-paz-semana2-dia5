@@ -1,0 +1,5 @@
+mkadir semana2_guia
+cd semana2_guia
+touch preguntas-semana2.txt comandos-terminal.txt
+reflexion-semana2.txt
+ls
